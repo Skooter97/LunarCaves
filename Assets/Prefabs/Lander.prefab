@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 8672575854868754726}
   - component: {fileID: 1426696177998085253}
   - component: {fileID: 2290271516425321202}
+  - component: {fileID: 6023046198099852141}
   m_Layer: 0
   m_Name: Lander
   m_TagString: Untagged
@@ -245,3 +246,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &6023046198099852141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7038158155713280820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dda0b7b4ec637c24986a8d6380d7ceb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
